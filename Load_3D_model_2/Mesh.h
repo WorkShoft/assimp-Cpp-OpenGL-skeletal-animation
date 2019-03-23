@@ -2,9 +2,9 @@
 
 #include <iostream>
 
-#include "GL\glew.h"
-#include "glm\glm.hpp"
-#include "assimp\Importer.hpp"
+#include "GL/glew.h"
+#include "glm/glm.hpp"
+#include "assimp/Importer.hpp"
 
 #include <vector>
 #include <string>

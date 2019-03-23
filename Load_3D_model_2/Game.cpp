@@ -1,12 +1,12 @@
 #include "Game.h"
 #include "InputHandler.h"
-#include "GL\glew.h"
-#include "GL\freeglut.h"
-#include "IL\il.h"
-#include "IL\ilu.h"
-#include "IL\ilut.h"
-#include "SDL\SDL_mixer.h"
-
+#include "GL/glew.h"
+#include "GL/freeglut.h"
+#include "IL/il.h"
+#include "IL/ilu.h"
+#include "IL/ilut.h"
+#include "SDL2/SDL_mixer.h"
+#include "SDL2/SDL.h"
 #include <iostream>
 #include <assert.h>
 

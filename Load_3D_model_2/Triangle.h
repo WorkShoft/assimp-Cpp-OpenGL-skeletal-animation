@@ -1,6 +1,6 @@
 #pragma once
 
-#include "GL\glew.h"
+#include "GL/glew.h"
 #include <iostream>
 #include "Camera.h"
 #include "Model.h"
@@ -9,7 +9,7 @@
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
 
-#include "SDL\SDL_mixer.h"
+#include "SDL2/SDL_mixer.h"
 
 class Triangle
 {

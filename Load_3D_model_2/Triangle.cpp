@@ -3,9 +3,11 @@
 #include "SkyBox.h"
 #include "TextRendering.h"
 #include "ForShader.h"
-#include "IL\il.h"
-#include "IL\ilu.h"
-#include "IL\ilut.h"
+#include "IL/il.h"
+#include "IL/ilu.h"
+#include "IL/ilut.h"
+#include "SDL2/SDL_mixer.h"
+
 
 Triangle::Triangle()
 {

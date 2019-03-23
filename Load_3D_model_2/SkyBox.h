@@ -1,8 +1,8 @@
 #pragma once
 
-#include "GL\glew.h"
-#include "glm\glm.hpp"
-#include "glm\gtc\type_ptr.hpp"
+#include "GL/glew.h"
+#include "glm/glm.hpp"
+#include "glm/gtc/type_ptr.hpp"
 #include "Camera.h"
 
 using namespace std;
